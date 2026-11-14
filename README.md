@@ -3,7 +3,7 @@
 ## Footprinting & Network Scanning
 
 **Pentester:** Olawoyin Samuel  
-**Batch:** B082  
+**Batch:** B084  
 **Date:** 14 November 2026
 
 ---
